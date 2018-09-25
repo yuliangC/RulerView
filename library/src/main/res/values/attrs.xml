@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RulerView">
+        <attr name="indicatorColor" format="color"/>
+        <attr name="scaleColor" format="color"/>
+        <attr name="numberColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="minNumber" format="integer"/>
+        <attr name="maxNumber" format="integer"/>
+        <attr name="currentNumber" format="float"/>
+    </declare-styleable>
+
+
+
+</resources>
